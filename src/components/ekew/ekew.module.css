@@ -1,0 +1,47 @@
+.a {
+    width: 100vw;
+    height: 80vh;
+    /* background-color: red; */
+}
+.b {
+    width: 80%;
+    height: 100%;
+    display: flex;
+    margin: auto;
+    margin-left: 176px;
+    color: white;
+    gap: 5px;
+}
+.a1 {
+    background-image: url("/e2.png");
+    background-size: cover;
+    width: 48%;
+    height: 90%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+.a1 h1 {
+    font-size: 30px;
+    width: 500px;
+    padding-left: 80px;
+}
+.a1 p {
+    width: 400px;
+    padding-right: 15px;
+}
+.a1 button {
+    width: 160px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 259px;
+}
+.a2 {
+    width: 49%;
+    height: 90%;
+    background-image: url("/e1.png");
+}

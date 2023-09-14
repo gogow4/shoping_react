@@ -1,0 +1,62 @@
+.hero {
+  background-image: url("/a.jpg");
+  background-size: cover;
+  background-position: top left;
+  width: 100vw;
+  height: 100vh;
+  color: #fff;
+  /* padding: 100px; */
+}
+
+.a {
+  width: 80%;
+  height: 100%;
+  display: flex;
+  /* background-color: red; */
+  margin: auto;
+}
+
+.left {
+  width: 50%;
+  height: 100%;
+  /* background-color:blue; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 70px;
+}
+
+.left span {
+  font-size: 40px;
+  margin-left: -170px;
+}
+
+.left h1 {
+  font-size: 88px;
+  margin-left: 90px;
+}
+
+.left p {
+  font-size: 40px;
+}
+
+.left button {
+  width: 250px;
+  height: 70px;
+  padding: 16px 72px;
+  margin-left: -170px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  color: #3C4242;
+  text-align: center;
+  font-family: Causten;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  border-radius: 5px;
+  border: none;
+}

@@ -1,0 +1,81 @@
+.a {
+    width: 100vw;
+    height: 50vh;
+    margin-top: 400px;
+    /* background-color: red; */
+}
+.b {
+    width: 80%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    gap: 20px;
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+.aa {
+    display: flex;
+    gap: 20px;
+}
+.text {
+    width: 6px;
+    height: 30px;
+    background-color: #8A33FD;
+    border-radius: 10px;
+}
+.img {
+    display: flex;
+    width: 100%;
+    height: 80%;
+    gap: 40px;
+    /* background-color: blueviolet; */
+}
+.b1 {
+    width: 24%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.t {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.b2 {
+    width: 24%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.t {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.b3 {
+    width: 24%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.t {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.b4 {
+    width: 24%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.t {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}

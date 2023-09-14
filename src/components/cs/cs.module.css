@@ -1,0 +1,231 @@
+.a {
+    width: 100vw;
+    height: 80vh;
+}
+
+.b {
+    width: 80%;
+    height: 100%;
+    display: flex;
+    /* flex-direction: column; */
+    margin: auto;
+    /* background-color: red; */
+    margin-top: 200px;
+}
+
+.a1 {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 100%;
+    align-items: start;
+    justify-content: start;
+    /* background-color: yellow; */
+    /* justify-content: center; */
+    /* padding: 20px; */
+    gap: 50px;
+    /* padding-left: 20px; */
+}
+
+.t {
+    width: 250px;
+    height: 28px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+.dv {
+    width: 6px;
+    height: 28px;
+    background-color: #8A33FD;
+    border-radius: 6px;
+    display: flex;
+    gap: 10px;
+}
+
+.cz {
+    display: flex;
+    width: 80%;
+    height: 10%;
+    /* background-color: red; */
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.cz p {
+    color: #807D7E;
+}
+
+.e {
+    width: 20px;
+    height: 20px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2px;
+    background-color: #8A33FD;
+}
+
+.e p {
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 3px;
+    color: white;
+}
+
+.tr {
+    width: 20px;
+    height: 20px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2px;
+    background-color: black;
+}
+
+.tr p {
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 3px;
+    color: white;
+}
+
+.zz {
+    width: 610px;
+    color: #807D7E;
+    font-family: Causten;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    /* 156.25% */
+    letter-spacing: 0.32px;
+}
+.bb {
+    width: 80%;
+    height: 30%;
+    background-color: #F6F6F6;
+    display: flex;
+    flex-direction: column;
+}
+.b1 {
+    display: flex;
+    width: 100%;
+    height: 50%;
+}
+.e1 {
+    width: 33%;
+    height: 100%;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+    /* padding-left: 10px; */
+    border-right: 1px solid #BEBCBD;
+    border-bottom: 1px solid #BEBCBD;
+    /* background-color: red; */
+    
+}
+.e2 {
+    width: 33%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+    /* padding-left: 10px; */
+    border-right: 1px solid #BEBCBD;
+    border-bottom: 1px solid #BEBCBD;
+}
+.e2 p {
+    color: #807D7E;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 100% */
+    letter-spacing: 0.32px;
+}
+.e2 span {
+    font-size: 16px;
+}
+.e3 {
+    width: 33%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+    /* padding-left: 10px; */
+    /* border-right: 1px solid #BEBCBD; */
+    border-bottom: 1px solid #BEBCBD;
+}
+.e3 p {
+    color: #807D7E;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 100% */
+    letter-spacing: 0.32px;
+    }
+.e3 span {
+    font-size: 16px;
+}
+.e1 p {
+color: #807D7E;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 100% */
+letter-spacing: 0.32px;
+margin-left: 10px;
+}
+.e1 span {
+    font-size: 16px;
+    margin-left: 10px;
+}
+.b2 {
+    display: flex;
+    width: 100%;
+    height: 50%;
+}
+.t1 {
+    width: 33%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+    /* padding-left: 10px; */
+    border-right: 1px solid #BEBCBD;
+}
+.t1 p {
+    color: #807D7E;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 100% */
+    letter-spacing: 0.32px;
+}
+.t1 span {
+    font-size: 16px;
+}
+.a2 {
+    width: 520px;
+    height: 320px;
+    /* background-color: rebeccapurple; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    
+    
+}

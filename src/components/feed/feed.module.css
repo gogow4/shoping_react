@@ -1,0 +1,43 @@
+.a {
+    width: 100vw;
+    height: 100vh;
+    padding-top: 100px;
+    /* background-color: red; */
+}
+.b {
+    width: 80%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.aa {
+    display: flex;
+    gap: 20px;
+}
+.b1 {
+    display: flex;
+    justify-content: space-between;
+}
+.text {
+    width: 10px;
+    height: 36px;
+    border-radius: 3px;
+    background-color: blueviolet;
+}
+.cc {
+    display: flex;
+    gap: 20px;
+}
+.a1 {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    width: 30%;
+    height: 95%;
+    border: 3px solid grey;
+    padding: 20px;
+    border-radius: 10px;
+    gap: 20px;
+}

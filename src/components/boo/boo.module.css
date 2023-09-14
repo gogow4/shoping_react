@@ -1,0 +1,148 @@
+.a {
+    width: 100vw;
+    height: 95vh;
+    /* background-color: red; */
+    margin-top: -200px;
+}
+.b {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    /* background-color: grey; */
+}
+.c {
+    width: 90%;
+    height: 90%;
+    background-color: #2A2F2F;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    gap: 20px;
+    padding: 100px;
+}
+.a1 {
+    width: 100%;
+    display: flex;
+    height: 50%;
+    /* background-color: aqua; */
+}
+.aa1 {
+    display: flex;
+    width: 23%;
+    flex-direction: column;
+    /* justify-content: center; */
+    gap: 20px;
+}
+.aa1 ul {
+    display: flex;
+    list-style: none;
+    gap: 14px;
+    flex-direction: column;
+    margin-left: -38px;
+}
+.aa2 {
+    display: flex;
+    width: 23%;
+    flex-direction: column;
+    /* justify-content: center; */
+    gap: 20px;
+}
+.aa2 ul {
+    display: flex;
+    list-style: none;
+    gap: 14px;
+    flex-direction: column;
+    margin-left: -38px;
+}
+.aa3 {
+    display: flex;
+    width: 23%;
+    flex-direction: column;
+    /* justify-content: center; */
+    gap: 20px;
+}
+.aa3 ul {
+    display: flex;
+    list-style: none;
+    gap: 14px;
+    flex-direction: column;
+    margin-left: -38px;
+}
+.aa4 {
+    display: flex;
+    width: 39%;
+    flex-direction: column;
+    /* justify-content: center; */
+    gap: 20px;
+}
+.aa4 ul {
+    display: flex;
+    list-style: none;
+    gap: 14px;
+    flex-direction: column;
+    margin-left: -38px;
+} 
+.a2 {
+    width: 100%;
+    height: 25%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: red; */
+}
+.b1 {
+    display: flex;
+    gap: 30px;
+}
+.b2 {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    padding-right: 100px;
+    gap: 50px;
+}
+.qq {
+    display: flex;
+    width: 300px;
+    gap: 40px;
+    
+}
+.q1 {
+    display: flex;
+    gap: 20px;
+}
+.t {
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    gap: 10px;
+}
+.t span {
+    font-size: 10px;
+}
+.q2 {
+    display: flex;
+    gap: 20px;
+}
+.a3 {
+    width: 100%;
+    height: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 40px;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    padding: 20px;
+}
+.a4 {
+    width: 100%;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 80px;
+}

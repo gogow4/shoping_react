@@ -1,0 +1,65 @@
+.a {
+    width: 100vw;
+    height: 70vh;
+    padding-top: 100px;
+    /* background-color: red; */
+}
+.b {
+    width: 80%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.aa {
+    display: flex;
+    gap: 20px;
+}
+.text {
+    width: 10px;
+    height: 36px;
+    background-color: blueviolet;
+    border-radius: 3px;
+    display: flex;
+}
+.img {
+    width: 100%;
+    /* background-color: red; */
+    display: flex;
+    gap: 20px;
+}
+.a1 {
+    width: 24%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    gap: 20px;
+}
+.cc {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.t {
+    display: flex;
+    flex-direction: column;
+}
+.t h3 {
+    font-size: 16px;
+}
+.t p {
+    color: #807D7E;
+}
+.bb button {
+    width: 80px;
+    height: 30px;
+    background-color: #F6F6F6;
+    border-radius: 7px;
+    border: none;
+}
+.a1 svg {
+    position: absolute;
+    right: 20px;
+    top: 30px;
+}

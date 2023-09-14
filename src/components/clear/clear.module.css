@@ -1,0 +1,34 @@
+.a {
+    width: 100vw;
+    height: 50vh;
+    /* background-color: red; */
+}
+.b {
+    width: 90%;
+    height: 100%;
+    /* background-color: red; */
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    padding-left: 150px;
+    gap: 60px;
+}
+.a1 {
+    width: 20%;
+    /* background-color: gray; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.text {
+    width: 8px;
+    height: 30px;
+    background-color: #8A33FD;
+    border-radius: 30%;
+    margin-left: -60px;
+}
+.img {
+    display: flex;
+    gap: 50px;
+}
